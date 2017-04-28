@@ -2,3 +2,7 @@ import os
 
 print 'hello world'
 
+On branch master
+On branch master
+nothing to commit, working tree clean
+nothing to commit, working tree clean
