@@ -6,3 +6,4 @@ test for git push without -u
 add another line
 
 end
+start
