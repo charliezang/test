@@ -1,2 +1,4 @@
 new file added on github 
 test for remote
+
+test for git push without -u
